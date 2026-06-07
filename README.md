@@ -23,23 +23,6 @@ YouTube	Short study explainer video describing the study, eligibility, and how t
 Physical Flyers	Distributed in clinic waiting rooms and SCD community events
 All digital materials were designed to be accessible, visually clear, and written at an appropriate health literacy level. Recruitment posts linked directly to the online consent form and survey.
 ---
-🗂️ Repository Structure
-```
-sickle-cell-home-pain-management-study/
-│
-├── recruitment/
-│   └── README_recruitment.md       # Recruitment materials description
-│
-├── data/
-│   ├── survey_data_template.csv    # De-identified data template (structure only)
-│   └── README_data.md              # Variable descriptions and coding guide
-│
-├── analysis/
-│   └── excel_analysis_guide.md     # Full Excel workflow documentation
-│
-└── README.md
-```
----
 📊 Methods
 Study Design
 Cross-sectional online survey study. Participants self-enrolled via social media recruitment and completed the survey on a secure platform.
