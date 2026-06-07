@@ -72,8 +72,6 @@ Participant recruitment source was tracked across all entries:
 | Instagram | Study flyer posted on Instagram (static image + story) |
 | Facebook | Study flyer posted in SCD support groups on Facebook |
 | YouTube Video | Short study explainer video posted on YouTube |
-| Flyer – Clinic Waiting Room | Physical flyers placed in healthcare waiting areas |
-| Flyer – Community Center | Physical flyers distributed at SCD community events |
 
 Recruitment source was recorded at enrollment and used to calculate cost-effectiveness of each channel.
 
