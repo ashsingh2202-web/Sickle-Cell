@@ -1,0 +1,11 @@
+participant_id,enrollment_date,recruitment_source,age,sex,insurance_type,disease_severity,pain_freq_monthly,pain_intensity_avg,strategy_opioid,strategy_otc,strategy_heat,strategy_rest,strategy_distraction,strategy_exercise,strategy_telehealth,strategy_count,self_efficacy_score,ed_visits_12mo,hosp_admissions_12mo,missed_work_days_12mo,quality_of_life_score,consent_obtained,survey_complete,notes
+SCD_001,2025-05-10,Instagram,34,Female,Medicaid,Moderate,8,7.2,1,1,1,1,0,0,1,5,62,4,2,18,58,1,1,
+SCD_002,2025-05-11,Facebook,28,Male,Private,Mild,4,4.5,0,1,1,1,1,0,0,4,74,1,0,5,72,1,1,
+SCD_003,2025-05-12,Instagram,41,Female,Medicaid,Severe,14,8.9,1,1,1,1,1,0,1,6,45,9,5,42,41,1,1,
+SCD_004,2025-05-15,Flyer - Community Center,52,Female,Medicare,Moderate,6,5.8,0,1,1,1,0,1,0,4,68,2,1,10,65,1,1,
+SCD_005,2025-05-15,Facebook,23,Male,Medicaid,Mild,3,3.2,0,1,0,1,1,1,0,4,81,0,0,2,79,1,1,
+SCD_006,2025-05-18,Instagram,37,Female,Uninsured,Severe,16,9.1,1,0,1,1,0,0,1,4,38,11,6,55,35,1,1,
+SCD_007,2025-05-19,YouTube Video,45,Male,Private,Moderate,7,6.4,1,1,1,0,1,1,0,5,70,3,1,14,61,1,1,
+SCD_008,2025-05-20,Flyer - Clinic Waiting Room,31,Female,Medicaid,Moderate,9,7.8,1,1,1,1,0,0,1,5,55,5,3,22,52,1,1,
+SCD_009,2025-05-21,Instagram,26,Male,Private,Mild,2,2.9,0,1,1,1,1,1,0,5,85,0,0,1,83,1,1,
+SCD_010,2025-05-22,Facebook,48,Female,Medicare,Severe,18,9.5,1,1,0,1,0,0,1,4,41,12,7,60,38,1,1,
