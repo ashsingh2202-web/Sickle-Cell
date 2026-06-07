@@ -4,6 +4,7 @@ IRB Status: Approved – University of Miami Institutional Review Board
 Timeline: Summer 2025  
 Tools: Microsoft Excel · Social Media Recruitment (Instagram, Facebook, YouTube) · Survey Design
 ---
+
 📌 Project Overview
 This IRB-approved capstone study examined home-based pain management strategies used by individuals living with Sickle Cell Disease (SCD) and their relationship to healthcare utilization and quality of life. Participants were recruited entirely through digital and social media channels, making this an online community-based participatory study reaching SCD patients beyond traditional clinical settings.
 All data were collected via online survey, tracked and analyzed in Microsoft Excel, and visualized for reporting and presentation.
